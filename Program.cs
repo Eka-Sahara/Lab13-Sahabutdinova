@@ -23,3 +23,22 @@
 // PrintStudentCard("Егор", 18, "ИСП-252");
 // PrintStudentCard("Валерия", 17, "ЗСП-252");
 
+// double CalculateScholarship(double baseAmount, double bonusPercent) {
+//     return baseAmount + baseAmount * bonusPercent / 100;
+// }
+
+// bool IsEligibleForBonus(double averageGrade) {
+//     return averageGrade >= 4.5;
+// }
+
+// double averageGrade = 4.7;
+
+// if (IsEligibleForBonus(averageGrade)) {
+//     double result = CalculateScholarship(2000, 15);
+//     System.Console.WriteLine($"Стипендия с бонусом: {result}");
+// } else {
+//     double result = CalculateScholarship(2000, 0);
+//     System.Console.WriteLine($"Обычная стипендия: {result}");
+// }
+
+/
